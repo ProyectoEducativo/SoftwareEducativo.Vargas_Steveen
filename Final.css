@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:skyblue;
+
+}
+header{
+    width: 1000px;
+    margin: auto;
+    border: 1px solid white;
+    margin-top: 15px;
+    background:red;
+}
+.logo {
+    width: 1000px;
+    height: 250px;
+    float: left;
+    background-color:White;
+}
+.barra{
+    background-color:red;
+    margin-top: 100px;
+    text-align: right;
+    margin-right: 230px;
+}
+.barra li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    font-weight: bold;
+}
+.texto{
+    width: 1000px; 
+    margin: auto;
+}
+.izquierda{
+ float: left;
+}
+.tex{
+    width: 1000px; 
+    margin: auto;
+}
+.texto h1{
+    padding: 10px;
+}
+article{
+    width: 675px;
+    float: left;
+    background: white;
+    padding: 10px;
+}
+aside{
+    width: 300px;
+    height: 475px;
+    float: right;
+    text-align: center;
+    background:white;
+}
+.social{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+}
+footer{
+    clear: both;
+    width: 1000px; 
+    margin: auto;
+    text-align: center;
+}
+.parte1{  
+    width: 300px;
+    height: 140px;
+    float: left;
+    margin: 10px;
+    background: peachpuff;
+}
+.parte1 h2{
+    padding: 10px;
+}
+.parte1 img{
+    width: 300px;
+    height: 140px;
+}
+.last{
+    text-align: left;
+    padding: 25px;
+}
+.parte2{  
+    width: 300px;
+    height: 140px;
+    float: left;
+    margin: 10px;
+}.parte2{  
+    width: 300px;
+    height: 140px;
+    float: left;
+    margin: 10px;
+    background: peachpuff;
+}
+.parte2 h2{
+    padding: 10px;
+}
+.parte2 img{
+    width: 300px;
+    height: 140px;
+}
+.last{
+    text-align: left;
+    padding: 25px;
+}
+.parte3{  
+    width: 300px;
+    height: 140px;
+    float: left;
+    margin: 10px;
+    background: peachpuff;
+}
+.parte3 h2{
+    padding: 10px;
+}
+.parte3 img{
+    width: 300px;
+    height: 140px;
+}
+.last{
+    text-align: left;
+    padding: 25px;
+}
+h3{
+   color: black;
+}
